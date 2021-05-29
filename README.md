@@ -1,12 +1,23 @@
-## Welcome to GitHub Pages
+# Farzana Patel
+* An aspiring Data Scientist| Psychologist| Statistician
 
-You can use the [editor on GitHub](https://github.com/farz1313/Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# Education
+* MSC (Psychological Reaserach Methods with Data Science), The University of Sheffield, UK.
+* Post-Grad Diploma (DataScience specialization in Deep Learning), IIIT- Bangalore, India.
+* MA (Psychology), IGNOU, India.
+* BE (Computer Engineering), MITCOE, India.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# [Project 1: World Happiness Report 2021](https://farz1313.github.io/farzana_patel_psy6422/)
 
-### Markdown
+This project integrates various visulizations pertaining happiness scores across the globe along with other important parameters.
+* **R libraries used:** Plotly, Renv, Dplyr, Tidyverse, Ggalt
+* **Input:**  Country, Year, Happiness Score, Regions
+* **Outout:** Happines trend during Covid.
+ ![Top and bottom 10 happiest countries](https://github.com/farz1313/farzana_patel_psy6422/blob/main/fig/000006.png) 
+ ![Boxplot-Happiness score across 2019, 2020 and 2021](https://github.com/farz1313/farzana_patel_psy6422/blob/main/fig/000008.png) 
+![Dumbbleplot-Happiness score across 2019, 2020 and 2021](https://github.com/farz1313/farzana_patel_psy6422/blob/main/fig/000007.png) 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
 Syntax highlighted code block
