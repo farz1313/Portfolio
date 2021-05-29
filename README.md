@@ -14,7 +14,7 @@ This project integrates various visulizations pertaining happiness scores across
 * **R libraries used:** Plotly, Renv, Dplyr, Tidyverse, Ggalt
 * **Input:**  Country, Year, Happiness Score, Regions
 * **Output:** Happines trend during Covid.
-  ![Top and bottom 10 happiest countries](https://github.com/farz1313/Portfolio/blob/main/000006.png) 
+  ![Top and bottom 10 happiest countries](000006.png) 
   ![Boxplot-Happiness score across 2019, 2020 and 2021](https://github.com/farz1313/Portfolio/blob/main/000008.png) 
   ![Dumbbleplot-Happiness score across 2019, 2020 and 2021](https://github.com/farz1313/Portfolio/blob/main/000007.png) 
 
