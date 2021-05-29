@@ -1,3 +1,4 @@
+```markdown
 # Farzana Patel
 * An aspiring Data Scientist| Psychologist| Statistician
 
@@ -17,7 +18,7 @@ This project integrates various visulizations pertaining happiness scores across
  ![Boxplot-Happiness score across 2019, 2020 and 2021](https://github.com/farz1313/farzana_patel_psy6422/blob/main/fig/000008.png) 
 ![Dumbbleplot-Happiness score across 2019, 2020 and 2021](https://github.com/farz1313/farzana_patel_psy6422/blob/main/fig/000007.png) 
 
-
+```
 
 ```markdown
 Syntax highlighted code block
