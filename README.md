@@ -15,15 +15,19 @@ This project integrates various visulizations pertaining happiness scores across
 * **Input:**  Country, Year, Happiness Score, Regions
 * **Output:** Happines trend during Covid.
   ![Top and bottom 10 happiest countries](000006.png) 
-  ![Boxplot-Happiness score across 2019, 2020 and 2021](https://github.com/farz1313/Portfolio/blob/main/000008.png) 
-  ![Dumbbleplot-Happiness score across 2019, 2020 and 2021](https://github.com/farz1313/Portfolio/blob/main/000007.png) 
+  ![Boxplot-Happiness score across 2019, 2020 and 2021](000008.png) 
+  ![Dumbbleplot-Happiness score across 2019, 2020 and 2021](000007.png) 
 
-# [Project 2: World Happiness Report 2021](https://farz1313.github.io/farzana_patel_psy6422/)
+# [Project 2: Credit Card Fraud Detection](https://github.com/farz1313/Farz-Projects/tree/main/DS%20Projects/Capstone%20Project)
 
-This project integrates various visulizations pertaining happiness scores across the globe along with other important parameters.
-* **R libraries used:** Plotly, Renv, Dplyr, Tidyverse, Ggalt
-* **Input:**  Country, Year, Happiness Score, Regions
-* **Output:** Happines trend during Covid.
+This project predicts fraudulent credit card transactions using machine learning models.
+* **Python libraries used:** LogisticRegression, roc_auc_score, RandomForestClassifier,KMeans
+* **Input:**  Vectors, Amount, Class
+* **Output:** Recall scores were used to identify best model based on their performance.
+
+![AUC scores of models](AUC scores of models.PNG)
+![Accuracy scores of models](Accuracy scores of models.PNG)
+![Recall scores of models](Recall scores of models.PNG)
 
 
 ```markdown
@@ -46,10 +50,3 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/farz1313/Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
