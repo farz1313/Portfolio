@@ -1,6 +1,6 @@
 
 # Farzana Patel
-* An aspiring Data Scientist| Psychologist| Statistician
+ An aspiring Data Scientist| Psychologist| Statistician
 
 # Education
 * MSC (Psychological Reaserach Methods with Data Science), The University of Sheffield, UK.
