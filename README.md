@@ -14,6 +14,7 @@ This project integrates various visulizations pertaining happiness scores across
 * **R libraries used:** Plotly, Renv, Dplyr, Tidyverse, Ggalt
 * **Input:**  Country, Year, Happiness Score, Regions
 * **Output:** Happines trend during Covid.
+* **Key Insight:** There was significant dip in happiness levels across the globe when Covid struck and it didn't go back to original levels in 2021.
   ![Top and bottom 10 happiest countries](000006.png) 
   ![Boxplot-Happiness score across 2019, 2020 and 2021](000008.png) 
   ![Dumbbleplot-Happiness score across 2019, 2020 and 2021](000007.png) 
@@ -24,6 +25,7 @@ This project predicts fraudulent credit card transactions using machine learning
 * **Python libraries used:** LogisticRegression, roc_auc_score, RandomForestClassifier,KMeans
 * **Input:**  Vectors, Amount, Class
 * **Output:** Recall scores were used to identify best model based on their performance.
+* **Key Insights:** Random forest is the best performing model and KNN performed the worst. So, I recommend using random forest to identify fraud transactions with current class imbalance dataset
 
 ![AUC scores of models](AUC%20scores%20of%20models.PNG)
 ![Accuracy scores of models](Accuracy%20scores%20of%20models.PNG)
