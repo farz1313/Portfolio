@@ -25,9 +25,9 @@ This project predicts fraudulent credit card transactions using machine learning
 * **Input:**  Vectors, Amount, Class
 * **Output:** Recall scores were used to identify best model based on their performance.
 
-![AUC scores of models](AUC scores of models.PNG)
-![Accuracy scores of models](Accuracy scores of models.PNG)
-![Recall scores of models](Recall scores of models.PNG)
+![AUC scores of models](AUC scores of models.png)
+![Accuracy scores of models](Accuracy scores of models.png)
+![Recall scores of models](Recall scores of models.png)
 
 
 ```markdown
