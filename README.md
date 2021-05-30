@@ -31,7 +31,29 @@ This project predicts fraudulent credit card transactions using machine learning
 ![Accuracy scores of models](Accuracy%20scores%20of%20models.PNG)
 ![Recall scores of models](Recall%20scores%20of%20models.PNG)
 
+# [Project 3: Advanced Statistics- Investigation of knowledge and skill development in a lifetime](https://rpubs.com/FarzanaPatel/adv_stats)
 
+In this project, I investigated how people develop skills and knowledge throughout their lifetime. In particular, I investigated how language exposure impacts later linguistic skills, cognitive abilities, and academic achievement. The goal was to make several models, which quantify and test postulated theoretical assumptions.
+Previous studies in language acquisition showed that language skills depend on the richness of the environment as well as number of other factors. In the case of this exam, I focused on the question of how people learn language and whether this influences other outcomes, such as university enrollment.
+
+* **R libraries used:** tidySEM, lavaan, statmod, semPlot, rcompanion, lme4, lmerTest, sjPlot, glmmTMB
+* **Input:** item_id, WordType, MotherVocab, FatherVocab, ReadingTime, ToddlerVocab, RT 
+* **Models used:** Linear Model, Structural Equation Model (SEM), Generalized Linear Model, Confirmatory Factor Model, Mixed Effect Model
+* **Key Insights:** 
+    - Toddler with mother with larger vocabulary will know 0.32 words more than the toddler with mother with smaller vocabulary, by every 1 unit increase in mother’s vocabulary and keeping all other variables constant. Slope of ReadingTime increases by 0.175596 for toddler from high SES background. That is toddlers from high SES background have high positive relationship between ReadingTime and ToddlerVocab as compared to low SES background toddlers.
+    - Prediction of university enrollment: SES was significant (β=2.129449, p= 2.58e-14). Hence, null of no effect is rejected. So, it can be stated that, SES measure is predictive of enrollment.ReadingTime was significant (β= 0.027840, p= 4.80e-05). Hence, null of no effect is rejected. So, it can be stated that, ReadingTime measure is predictive of enrollment.ToddlerVocab was significant (β= 0.025196, p= 0.0029). Hence, null of no effect is rejected. So, it can be stated that, ToddlerVocab measure is predictive of enrollment.It can be stated that high SES individuals are 8.41 times more likely to enroll at a university.
+
+**SEM Model output:**  
+![Structural Equation Model](SEM.PNG)
+
+**Generalized Model prediction:**  
+![GLM prediction](glm.PNG)
+
+**Full GLM prediction:**  
+![Full GLM prediction](glm2.PNG)  
+
+
+<!--
 ```markdown
 Syntax highlighted code block
 
@@ -51,4 +73,4 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
+-->
