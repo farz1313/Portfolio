@@ -52,6 +52,22 @@ Previous studies in language acquisition showed that language skills depend on t
 **Full GLM prediction:**  
 ![Full GLM prediction](glm2.PNG)  
 
+# [Project 4: Car Price Prediction](https://github.com/farz1313/FarzProjects/blob/main/DS%20Projects/Machine%20Learning/Car%20Price%20Prediction/car%20price%20assignment.ipynb)
+
+An automobile consulting company wants to understand the factors on which the pricing of cars depends.The model prediction will be used by management to understand the pricing dynamics of a new market.
+* **Python libraries used:** LinearRegression, RFE, sm 
+* **Input:**  Car price, car types, car specifications
+* **Output:** Linear model that explains the most variance with significant predictors.
+* **Key Insights:** Linear model fits the best here with 90% variance explained by r-squared(0.899) and adjusted r-squared (0.896).P-values of the model is less than 0.05 which validates that predictors are statistically significant
+
+**Scatterplot of all numeric datapoints:**  
+![Scatterplot](Scatterplot%20of%20all%20numeric%20variables.PNG)
+
+**Residual plot:**  
+![residuals](residual.PNG)
+
+**Linear Model prediction:**  
+![model prediction](model%20prediction.PNG)
 
 <!--
 ```markdown
