@@ -1,7 +1,7 @@
 
 # Farzana Patel
  An aspiring Data Scientist| Psychologist| Statistician
-
+ 
 # Education
 * MSC (Psychological Reaserach Methods with Data Science), The University of Sheffield, UK.
 * Post-Grad Diploma (DataScience specialization in Deep Learning), IIIT- Bangalore, India.
@@ -69,6 +69,14 @@ An automobile consulting company wants to understand the factors on which the pr
 **Linear Model prediction:**  
 ![model prediction](model%20prediction.PNG)
 
+<hr>
+<p align="center">
+  <i>Let's connect and chat! Open to anything under the sun.</i>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/farzanapatel/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
+    <a href="mailto:pfarzana1313@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
+<hr>
 <!--
 ```markdown
 Syntax highlighted code block
