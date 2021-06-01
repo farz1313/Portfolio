@@ -8,6 +8,10 @@
 * MA (Psychology), IGNOU, India.
 * BE (Computer Engineering), MITCOE, India.
 
+# Languages and Technological skills
+ Python | R | Git | PowerBI | Tableau | SPSS | SQL 
+ ETL | Data science pipeline | Statistics | Time series | Experimental design | Hypothesis testing | ML | NLP | Deep Learning
+
 # [Project 1: World Happiness Report 2021](https://farz1313.github.io/farzana_patel_psy6422/)
 
 This project integrates various visulizations pertaining happiness scores across the globe along with other important parameters.
