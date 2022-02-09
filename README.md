@@ -1,6 +1,12 @@
 
 # Farzana Patel
- An aspiring Data Scientist| Psychologist| Statistician
+ Data Scientist| Psychologist| Data Consultant
+ 
+# Experience
+* OFFICE FOR NATIONAL STATISTICS, UK - Data Scientist (Senior Executive Officer)
+* OMDENA, REMOTE- Junion Machine Learning Engineer
+* MARUMA CONSULTANCY, INDIA- Lead Consultant (Data and Analysis)
+* ACCENTURE, INDIA- Application Development Associate
  
 # Education
 * MSC (Psychological Reaserach Methods with Data Science), The University of Sheffield, UK.
