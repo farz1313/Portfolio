@@ -4,7 +4,7 @@
  
 # Experience
 * OFFICE FOR NATIONAL STATISTICS, UK - Data Scientist (Senior Executive Officer)
-* OMDENA, REMOTE- Junion Machine Learning Engineer
+* OMDENA, REMOTE- Junior Machine Learning Engineer
 * MARUMA CONSULTANCY, INDIA- Lead Consultant (Data and Analysis)
 * ACCENTURE, INDIA- Application Development Associate
  
