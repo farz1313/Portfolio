@@ -31,15 +31,31 @@ This project integrates various visulizations pertaining happiness scores across
 
 
 
-# UNDERSTANDING THE SPACE OF FACEBOOK POLITICAL ADVERTS USING TOPIC MODELLING
+# [Project 2: Understanding the space of facebook political adverts using topic modelling.](https://github.com/farz1313/Farz-Projects/blob/main/DS%20Projects/MSC_NLP_Farz_Projext.md)
 
 The aim of this project was to understand the space of Facebook political adverts (i.e. by topic), as well as differences by timing, party, type of source (e.g. local political actors, campaigners, national parties) using automated content analysis, will provide meaningful insights of the inner workings of the political ad domain to the community.
 
 In the project, I implemented topic modelling on political advert texts to detect latent topics and temporal trends with the dataset. By conducting a series of experiments, I finally landed on the optimal topic model I used to answer the research questions.
 
+![Top and bottom 10 happiest countries](nlp1.png)
+
+![Top and bottom 10 happiest countries](nlp2.png)
+
+![Top and bottom 10 happiest countries](nlp3.png)
+
+* **Python libraries used:**
+* numpy==1.20.1
+* pandas==1.2.4
+* matplotlib==3.3.4
+* seaborn==0.11.1
+* nltk==3.6.1
+* gensim==3.8.3
+* spacy==3.1.1
+* pyLDAvis==2.1.2
 
 
-# [Project 2: Credit Card Fraud Detection](https://github.com/farz1313/Farz-Projects/tree/main/DS%20Projects/Capstone%20Project)
+
+# [Project 3: Credit Card Fraud Detection](https://github.com/farz1313/Farz-Projects/tree/main/DS%20Projects/Capstone%20Project)
 
 This project predicts fraudulent credit card transactions using machine learning models.
 * **Python libraries used:** LogisticRegression, roc_auc_score, RandomForestClassifier,KMeans
@@ -51,7 +67,7 @@ This project predicts fraudulent credit card transactions using machine learning
 ![Accuracy scores of models](Accuracy%20scores%20of%20models.PNG)
 ![Recall scores of models](Recall%20scores%20of%20models.PNG)
 
-# [Project 3: Advanced Statistics- Investigation of knowledge and skill development in a lifetime](https://rpubs.com/FarzanaPatel/adv_stats)
+# [Project 4: Advanced Statistics- Investigation of knowledge and skill development in a lifetime](https://rpubs.com/FarzanaPatel/adv_stats)
 
 In this project, I investigated how people develop skills and knowledge throughout their lifetime. In particular, I investigated how language exposure impacts later linguistic skills, cognitive abilities, and academic achievement. The goal was to make several models, which quantify and test postulated theoretical assumptions.
 Previous studies in language acquisition showed that language skills depend on the richness of the environment as well as number of other factors. In the case of this exam, I focused on the question of how people learn language and whether this influences other outcomes, such as university enrollment.
@@ -72,7 +88,7 @@ Previous studies in language acquisition showed that language skills depend on t
 **Full GLM prediction:**  
 ![Full GLM prediction](glm2.PNG)  
 
-# [Project 4: Car Price Prediction](https://github.com/farz1313/FarzProjects/blob/main/DS%20Projects/Machine%20Learning/Car%20Price%20Prediction/car%20price%20assignment.ipynb)
+# [Project 5: Car Price Prediction](https://github.com/farz1313/FarzProjects/blob/main/DS%20Projects/Machine%20Learning/Car%20Price%20Prediction/car%20price%20assignment.ipynb)
 
 An automobile consulting company wants to understand the factors on which the pricing of cars depends.The model prediction will be used by management to understand the pricing dynamics of a new market.
 * **Python libraries used:** LinearRegression, RFE, sm 
