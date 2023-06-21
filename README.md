@@ -1,6 +1,6 @@
 
 # Farzana Patel
- Data Scientist| Psychologist| Data Consultant
+ Data Scientist| Psychologist| Lead Data Consultant
  
 # Experience
 * OFFICE FOR NATIONAL STATISTICS, UK - Data Scientist (Senior Executive Officer)
@@ -27,7 +27,17 @@ This project integrates various visulizations pertaining happiness scores across
 * **Key Insight:** There was significant dip in happiness levels across the globe when Covid struck and it didn't go back to original levels in 2021.
   ![Top and bottom 10 happiest countries](000006.png) 
   ![Boxplot-Happiness score across 2019, 2020 and 2021](000008.png) 
-  ![Dumbbleplot-Happiness score across 2019, 2020 and 2021](000007.png) 
+  ![Dumbbleplot-Happiness score across 2019, 2020 and 2021](000007.png)
+
+
+
+# UNDERSTANDING THE SPACE OF FACEBOOK POLITICAL ADVERTS USING TOPIC MODELLING
+
+The aim of this project was to understand the space of Facebook political adverts (i.e. by topic), as well as differences by timing, party, type of source (e.g. local political actors, campaigners, national parties) using automated content analysis, will provide meaningful insights of the inner workings of the political ad domain to the community.
+
+In the project, I implemented topic modelling on political advert texts to detect latent topics and temporal trends with the dataset. By conducting a series of experiments, I finally landed on the optimal topic model I used to answer the research questions.
+
+
 
 # [Project 2: Credit Card Fraud Detection](https://github.com/farz1313/Farz-Projects/tree/main/DS%20Projects/Capstone%20Project)
 
